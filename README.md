@@ -2,6 +2,8 @@
 
 # Zine
 <img width="540" height="828" alt="Cyberjunkies" src="https://github.com/user-attachments/assets/0b9e2ffc-3fde-45ba-abfc-e1d86bcf9d49" />
+
+
 # Description
 So this is my USB Hub 2.0 which has 2x Usb-A and 2x Type-C port and 1x Type-C for upstream which has a retro game controller case which makes it look good and what makes it special is that it is really small like 50 x 30 mm (approx) which makes it really good for storing it.
 
