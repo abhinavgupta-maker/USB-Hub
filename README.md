@@ -7,6 +7,12 @@
 # Description
 So this is my USB Hub 2.0 which has 2x Usb-A and 2x Type-C port and 1x Type-C for upstream which has a retro game controller case which makes it look good and what makes it special is that it is really small like 50 x 30 mm (approx) which makes it really good for storing it.
 
+# How to build it
+firstly extract the gerber files of the pcb and upload it on a website and make sure to select PCBA but if you can solder the things on your own then get the pcb only and then get the case 3d printed you can customize it on your own if you want and tehn get it 3d printed.
+
+# Why I built this
+For my own usage so that i can extend my ports on the laptop while coding and or playing games.
+
 # Usage
 I would use it for for my laptop as it only has 2 USB-A in which one is occupied by cooling stand and other by the mouse so i need to have more ports where i can connect my kbm and my microcontroller while i am coding. 
 
