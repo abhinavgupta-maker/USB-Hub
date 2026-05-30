@@ -1,4 +1,4 @@
-# USB-Hub
+<img width="1201" height="193" alt="image" src="https://github.com/user-attachments/assets/a4c47f58-7e54-4921-8847-5c509a8f07b5" /># USB-Hub
 
 # Zine
 <img width="540" height="828" alt="Cyberjunkies" src="https://github.com/user-attachments/assets/0b9e2ffc-3fde-45ba-abfc-e1d86bcf9d49" />
@@ -27,10 +27,4 @@ I would use it for for my laptop as it only has 2 USB-A in which one is occupied
 
 # BOM
 [ProPrj_Usb_Hub_2026-05-23.csv](https://github.com/user-attachments/files/28174317/ProPrj_Usb_Hub_2026-05-23.csv)
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"?","1","~","","","","ProPrj_Usb-easyedapro:",""
-"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11","11","100nF","","","","ProPrj_Usb-easyedapro:C0603",""
-"R1,R2,R3,R4,R5,R6","6","10K","","","","ProPrj_Usb-easyedapro:R0603",""
-"U1","1","SL2.1s","","","","ProPrj_Usb-easyedapro:SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL","https://item.szlcsc.com/datasheet/SL2.1s/2782346.html"
-"USB1,USB5,USB6","3","TYPE-C 16PIN 2MD(073)","","","","ProPrj_Usb-easyedapro:USB-C-SMD_TYPE-C-16PIN-2MD-073","https://item.szlcsc.com/datasheet/TYPE-C%252016PIN%25202MD(073)/2901843.html"
-"USB2,USB3","2","10.0 QHHTZB6.3","","","","ProPrj_Usb-easyedapro:USB-A-TH_10.0QHHTZB6.3","https://item.szlcsc.com/datasheet/10.0%2520QHHTZB6.3/698534.html"
+<img width="1414" height="216" alt="image" src="https://github.com/user-attachments/assets/269fd9c1-f719-4780-9c72-2f17f41bf4dd" />
