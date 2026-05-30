@@ -1,4 +1,4 @@
-<img width="1201" height="193" alt="image" src="https://github.com/user-attachments/assets/a4c47f58-7e54-4921-8847-5c509a8f07b5" /># USB-Hub
+# USB-Hub
 
 # Zine
 <img width="540" height="828" alt="Cyberjunkies" src="https://github.com/user-attachments/assets/0b9e2ffc-3fde-45ba-abfc-e1d86bcf9d49" />
