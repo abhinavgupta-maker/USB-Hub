@@ -1,7 +1,7 @@
 # USB-Hub
 
 # Zine
-<img width="540" height="828" alt="Cyberjunkies" src="https://github.com/user-attachments/assets/0b9e2ffc-3fde-45ba-abfc-e1d86bcf9d49" />
+<img width="540" height="828" alt="Cyberjunkies" src="https://github.com/user-attachments/assets/38ca672d-a04b-40a7-9c29-a508263f876b" />
 
 
 # Description
