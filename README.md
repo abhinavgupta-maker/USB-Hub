@@ -28,3 +28,9 @@ I would use it for for my laptop as it only has 2 USB-A in which one is occupied
 # BOM
 [ProPrj_Usb_Hub_2026-05-23.csv](https://github.com/user-attachments/files/28174317/ProPrj_Usb_Hub_2026-05-23.csv)
 <img width="1414" height="216" alt="image" src="https://github.com/user-attachments/assets/269fd9c1-f719-4780-9c72-2f17f41bf4dd" />
+
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11 : https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663
+R1, R2, R3, R4, R5, R5, R6 : https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804
+U1 : https://jlcpcb.com/partdetail/CoreChips-SL21s/C2684433
+USB1, USB5, USB6 : https://jlcpcb.com/partdetail/ShouHan-TYPE_C_16PIN_2MD_073/C2765186
+USB2, USB3 : https://jlcpcb.com/partdetail/10.0%20QHHTZB6.3/C668591
