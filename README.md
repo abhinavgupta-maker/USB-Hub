@@ -18,7 +18,7 @@ I would use it for for my laptop as it only has 2 USB-A in which one is occupied
 
 # PCB
 <img width="749" height="489" alt="image" src="https://github.com/user-attachments/assets/5173b6f0-4343-48b7-893a-cd30dfb87d5c" />
-<img width="875" height="663" alt="image" src="https://github.com/user-attachments/assets/62514197-7dae-4aa3-8cac-1720e43f2196" />
+<img width="875" height="589" alt="image" src="https://github.com/user-attachments/assets/2ffc99e5-5661-4909-9bcf-02920e814cd2" />
 
 #CAD
 
