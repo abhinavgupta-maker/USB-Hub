@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "final_usb")(type "KiCad")(uri "$(KIPRJMOD)/final_usb.pretty")(options "")(descr ""))
+)

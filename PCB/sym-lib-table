@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "final_usb-easyedapro")(type "KiCad")(uri "${KIPRJMOD}/final_usb-easyedapro.kicad_sym")(options "")(descr ""))
+)
