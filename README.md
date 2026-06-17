@@ -20,7 +20,7 @@ I would use it for for my laptop as it only has 2 USB-A in which one is occupied
 <img width="749" height="489" alt="image" src="https://github.com/user-attachments/assets/5173b6f0-4343-48b7-893a-cd30dfb87d5c" />
 <img width="875" height="589" alt="image" src="https://github.com/user-attachments/assets/2ffc99e5-5661-4909-9bcf-02920e814cd2" />
 
-#CAD
+# CAD
 
 <img width="810" height="641" alt="Screenshot 2026-05-23 105010" src="https://github.com/user-attachments/assets/bcf770ba-50b1-4739-916d-16e4aaf68d86" />
 <img width="1191" height="635" alt="Screenshot 2026-05-23 105002" src="https://github.com/user-attachments/assets/9a900040-5ffc-4b71-a478-5910fcd8ed8a" />
@@ -29,4 +29,15 @@ I would use it for for my laptop as it only has 2 USB-A in which one is occupied
 [ProPrj_Usb_Hub_2026-05-23.csv](https://github.com/user-attachments/files/28494604/ProPrj_Usb_Hub_2026-05-23.csv)
 
 <img width="1109" height="370" alt="image" src="https://github.com/user-attachments/assets/521f6dc8-2a1e-410b-9941-2444c76c5026" />
+
+|Product Name        |Product  Link                                                                                                                                                                              |Unit Price|Amount|
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------|
+|                    |                                                                                                                                                                                           |          |      |
+|SMD capacitors 100nF|https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663                                                                                                                               |$0.0094   |11    |
+|SMD Resistors 10K   |https://quartzcomponents.com/products/10k-ohm-103-5-smd-resistor-0805-pack-of-20-pieces                                                                                                    |$0.11     |6     |
+|SL2.1S              |https://www.lcsc.com/product-detail/C2684433.html?s_z=n_q_SL2.1S&spm=wm.fly.bg.0.xh&lcsc_vid=FQQKBFAFRQVdBABTRQNcBQdWTgRZUlEATgdZAwUHRgMxVlNeRlRcVlVWQ1lfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D|$9.04     |1     |
+|Type-C Port         |https://jlcpcb.com/partdetail/SHOUHAN-TYPEC16PIN/C393939                                                                                                                                   |$0.07     |3     |
+|USB-A port          |https://jlcpcb.com/partdetail/SHOUHAN-10_0_QHHTZB63/C668591                                                                                                                                |$0.0662   |2     |
+|                    |                                                                                                                                                                                           |          |      |
+|                    |Total:                                                                                                                                                                                     |10$ Approx|      |
 
