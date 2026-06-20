@@ -16,6 +16,10 @@ For my own usage so that i can extend my ports on the laptop while coding and or
 # Usage
 I would use it for for my laptop as it only has 2 USB-A in which one is occupied by cooling stand and other by the mouse so i need to have more ports where i can connect my kbm and my microcontroller while i am coding. 
 
+# Schematic
+
+<img width="1081" height="637" alt="image" src="https://github.com/user-attachments/assets/38c4bf34-4327-4d28-89e2-2dcc388a01a7" />
+
 # PCB
 <img width="749" height="489" alt="image" src="https://github.com/user-attachments/assets/5173b6f0-4343-48b7-893a-cd30dfb87d5c" />
 <img width="875" height="589" alt="image" src="https://github.com/user-attachments/assets/2ffc99e5-5661-4909-9bcf-02920e814cd2" />
