@@ -26,8 +26,8 @@ I would use it for for my laptop as it only has 2 USB-A in which one is occupied
 
 # CAD
 
-<img width="1203" height="720" alt="image" src="https://github.com/user-attachments/assets/f2b4aefb-7f0d-4be6-b0c4-8267f0d7aac3" />
-<img width="1058" height="638" alt="image" src="https://github.com/user-attachments/assets/3d6d8d9f-26ef-4ce8-b19d-be44dee125c3" />
+<img width="1056" height="718" alt="image" src="https://github.com/user-attachments/assets/0bbcbb04-fffd-4176-ab03-d2bf0718e937" />
+<img width="1350" height="693" alt="image" src="https://github.com/user-attachments/assets/fab7be1b-266d-4353-8750-004670b203a7" />
 
 # BOM
 [ProPrj_Usb_Hub_2026-05-23.csv](https://github.com/user-attachments/files/28494604/ProPrj_Usb_Hub_2026-05-23.csv)
