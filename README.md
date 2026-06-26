@@ -30,7 +30,6 @@ I would use it for for my laptop as it only has 2 USB-A in which one is occupied
 <img width="1350" height="693" alt="image" src="https://github.com/user-attachments/assets/fab7be1b-266d-4353-8750-004670b203a7" />
 
 # BOM
-[ProPrj_Usb_Hub_2026-05-23.csv](https://github.com/user-attachments/files/28494604/ProPrj_Usb_Hub_2026-05-23.csv)
 
 <img width="825" height="383" alt="image" src="https://github.com/user-attachments/assets/6a82c00a-82a4-4008-bf5c-4e72eef4115b" />
 
