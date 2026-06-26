@@ -14,7 +14,7 @@ firstly extract the gerber files of the pcb and upload it on a website and make 
 For my own usage so that i can extend my ports on the laptop while coding and or playing games.
 
 # Usage
-I would use it for for my laptop as it only has 2 USB-A in which one is occupied by cooling stand and other by the mouse so i need to have more ports where i can connect my kbm and my microcontroller while i am coding. 
+I would use it for for my laptop as it only has 2 USB-A in which one is occupied by cooling stand and other by the mouse so i need to have more ports where i can connect my kbm and my microcontroller while i am coding. and i can use it on my fathers tab to connect a physical keyboard and mouse.
 
 # Schematic
 
