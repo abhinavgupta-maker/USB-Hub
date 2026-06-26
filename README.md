@@ -32,7 +32,7 @@ I would use it for for my laptop as it only has 2 USB-A in which one is occupied
 # BOM
 [ProPrj_Usb_Hub_2026-05-23.csv](https://github.com/user-attachments/files/28494604/ProPrj_Usb_Hub_2026-05-23.csv)
 
-<img width="1109" height="370" alt="image" src="https://github.com/user-attachments/assets/521f6dc8-2a1e-410b-9941-2444c76c5026" />
+<img width="825" height="383" alt="image" src="https://github.com/user-attachments/assets/6a82c00a-82a4-4008-bf5c-4e72eef4115b" />
 
 |Product Name        |Product  Link                                                                                                                                                                              |Unit Price|Amount|
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------|
